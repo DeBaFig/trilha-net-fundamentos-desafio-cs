@@ -5,7 +5,7 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/DeBaFig/trilha-net-fundamentos-desafio-cs) [![GitHub license](https://img.shields.io/github/license/DeBaFig/site-nick-projeto)](https://github.com/DeBaFig/site-nick-projeto/blob/main/LICENSE) 
 
-<h1 align="center">Dasafio DIO</h1>
+<h1 align="center">Dasafio DIO - Fundamentos</h1>
 
 <!--ts-->
    * [Sobre](#sobre)
